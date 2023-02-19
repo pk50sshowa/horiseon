@@ -50,6 +50,22 @@ p {
     font-size: 16px;
 }
 
+article {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
+}
+
 .hero {
     height: 800px;
     width: 100%;
@@ -87,11 +103,6 @@ p {
     background-color: #2589bd;
 }
 
-article {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
 .content-sub {
     margin-bottom: 20px;
     padding: 50px;
@@ -124,15 +135,4 @@ article {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-footer h2 {
-    font-size: 20px;
 }
