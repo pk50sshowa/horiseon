@@ -1,5 +1,7 @@
 # Horiseon
 
+## Description
+
 Horiseon is the name of an agency which asked for updates to their site to make it more accessible and easier to find with tags to improve their site SEO. This version of the site keeps their previous appearance but streamlines both the HTML and CSS files to include semantic elements and make it easier to understand.
 
 ## Location
@@ -9,8 +11,10 @@ The site is live at the following URL:
 
 ## Screenshots
 
+```md
 ![Screenshot 1](/assets/images/horiseon-screenshot-1.GIF)
 ![Screenshot 2](/assets/images/horiseon-screenshot-2.GIF)
+```
 
 ## Developer Comments
 
@@ -25,6 +29,10 @@ Please take a look at the code history at this project's repo page:
 ## Support
 
 Any questions can be directed to the developer at paul.koehler@gmail.com
+
+## Credits
+
+A big thank you to my teachers and classmates, who helped make this first module a reality!
 
 ## License
 
