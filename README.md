@@ -5,7 +5,7 @@ Horiseon is the name of an agency which asked for updates to their site to make 
 ## Location
 
 The site is live at the following URL:
-Site URL
+[https://pk50sshowa.github.io/horiseon/](https://pk50sshowa.github.io/horiseon/)
 
 ## Screenshots
 
