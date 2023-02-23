@@ -11,10 +11,8 @@ The site is live at the following URL:
 
 ## Screenshots
 
-```md
 ![Screenshot 1](/assets/images/horiseon-screenshot-1.GIF)
 ![Screenshot 2](/assets/images/horiseon-screenshot-2.GIF)
-```
 
 ## Developer Comments
 
